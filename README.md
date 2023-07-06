@@ -13,4 +13,6 @@ Cuando la geometría de un objeto espacial consta de un solo vértice, se denomi
 
 Dicho lo anterior, lo que primero se debe hacer es abrir el QGIS y cargas los datos de puntos y poligonos del objeto espacial que representaremos, en nuestro caso utilizaremos el connjunto de datos que contiene información geoespacial sobre epicentros en la ciudad de México desde el año 1900 y los datos vectoriales poligonales de alcaldías de la misma ciudad.
 
+
+##**Sismos registrados en la ciudad de México y sus alrededores desde el año 1900**
 [![Web|100](./sismo_img.png)](https://github.com/jabpcomplex/QGIS_maps)
