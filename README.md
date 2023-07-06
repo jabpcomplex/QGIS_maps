@@ -18,3 +18,10 @@ Dicho lo anterior, lo que primero se debe hacer es abrir el QGIS y cargas los da
 
 
 [![Web|100](./sismo_img.png)](https://github.com/jabpcomplex/QGIS_maps)
+
+
+## Referencias
+
+http://www2.ssn.unam.mx:8080/catalogo/
+https://docs.qgis.org/3.28/es/docs/gentle_gis_introduction/vector_data.html
+https://datos.cdmx.gob.mx/dataset/sismos-registrados-cdmx
